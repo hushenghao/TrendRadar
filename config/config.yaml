@@ -77,6 +77,8 @@ weight:
 
 # name 可以定义任意名称，只具有显示作用，即使项目运行了几天后，忽然改掉 name 也不会影响代码的正常运行
 platforms:
+  - id: "hackernews"
+    name: "Hacker News"
   - id: "v2ex"
     name: "V2EX"
   - id: "toutiao"
@@ -86,7 +88,7 @@ platforms:
   - id: "thepaper"
     name: "澎湃新闻"
   - id: "bilibili-hot-search"
-    name: "bilibili 热搜"
+    name: "bilibili"
   - id: "cls-hot"
     name: "财联社热门"
   - id: "ifeng"
