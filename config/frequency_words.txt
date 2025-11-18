@@ -4,6 +4,9 @@
 DeepSeek
 梁文锋
 
+小鹏
+何小鹏
+
 华为
 鸿蒙
 HarmonyOS
@@ -61,6 +64,8 @@ NVIDIA
 
 AMD
 
+Android
+安卓
 谷歌
 google
 gemini
@@ -77,6 +82,8 @@ iphone
 ipad
 mac
 ios
+apple
+苹果
 
 ai
 !gai
@@ -99,6 +106,7 @@ ai
 科技
 
 核能
+新能源
 
 水电站
 雅鲁藏布江
